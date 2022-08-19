@@ -1,4 +1,4 @@
-# Infinite-Infinati-Mint
+# Infinite-Infinati-Mint 8/18/22
 Extremely simple example of a custom music nft smart contract written by @sweetman_eth - 
 
 # 
@@ -9,3 +9,10 @@ This is a smart contract with a lot of music nft metadata, unlike other mints wh
 
 # 
 For simplicity's sake, I will keep this repository simple, but I may come back and make it look nicer, etc. Waiting on an API key from OpenSea.
+
+# 9/19/22 Update
+I tried to use Piñata to store the index.html on IPFS. This was done for basic experimental purposes. Here are the broken results. However, HTML and other code can be stored on IPFS, but as of now the OpenSea embed option can't be minted. In theory it makes sense, you can't store an existing NFT on IPFS and in many cases it may seem unethical. With that said it's my music and I am simply experimenting. This was not the point of the project, but now I know further possibilities! Here's the failed example where IPFS on Pinñta didn't fully mint the current index.html file of this, but it minted all the other HTML. https://gateway.pinata.cloud/ipfs/QmPqoPXERN5qfz6RM34dhdKMnHZPNPFZN6yvxKnkupWFgR/
+
+I say the experiment was successful as this was my first time storing code on IPFS. I am a very abstract thinker, so thus my experiments in Truth may seem absurd, but I know the path I'm going is the correct one. Like rappers say, I found my own lane, but in blockchain it's infinite lanes so to speak.
+
+Some slight humor, the Piñata URL doesn't support the letter ñ. 
