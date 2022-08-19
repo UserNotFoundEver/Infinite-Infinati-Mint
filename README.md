@@ -29,3 +29,5 @@ DIDN'T work as intended: https://bafkreigkmqol5kohin6puxh6pij2vms6xknszw3ohfkket
 I assume I need a "dedicated getaway" for this to work, but my index file does not include my Music NFT. Only the simple HTML. With that said, I'm looking at project longevity relative to market research (if it's based on gas and such, etc etc).
 
 As of now, Piñata costs $20/m for small projects, $1000/m for the real deal, and NFT.STORAGE failed with basic experiment, but with that said I will contact them as well to {get} more information on whether there's a "private getaway" option etc. Like I said before, I'm still awaiting API keys etc so, again this is a basic experiment but I think the knowledge gained is priceless.
+
+EDIT: I may have used the word "mint" in the wrong context. I will update and fix that when I have some extra time.
