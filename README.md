@@ -18,6 +18,8 @@ I say the experiment was successful as this was my first time storing code on IP
 Some slight humor, the Piñata URL doesn't support the letter ñ. 
 
 9/19/22 Update #2 SOLUTION!
-With the help of Piñata, using a public IPFS getaway is the reason it didn't work. You have to use a dedicated one. I would post a link but Piñata reached out with the solution, and I believe it's only fair if I pay $20 for the service. Likewise, I am not bound to one service but will always appreciate the help since I'm still testing things. With that said, the index.html file DOES embed my music NFT, so YES, you can store any type of code on IPFS using the right methods. This still wasn't the ENTIRE point of this Repository, but I'm glad what I was trying to do isn't impossible. The word itself says "I'm possible!".
+With the help of Piñata, using a public IPFS getaway is the reason it didn't work. You have to use a dedicated one. Here it is live on IPFS (index.html) https://discordpinnie.mypinata.cloud/ipfs/QmPqoPXERN5qfz6RM34dhdKMnHZPNPFZN6yvxKnkupWFgR/ - the link is temporary and I didn't have to pay $20/m thanks to Piñata
+
+This still wasn't the ENTIRE point of this Repository, but I'm glad what I was trying to do isn't impossible. The word itself says "I'm possible!".
 
 In my head I already have another solution to another experiment.
