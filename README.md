@@ -17,9 +17,14 @@ I say the experiment was successful as this was my first time storing code on IP
 
 Some slight humor, the Piñata URL doesn't support the letter ñ. 
 
-9/19/22 Update #2 SOLUTION!
+# 9/19/22 Update #2 SOLUTION!
 With the help of Piñata, using a public IPFS getaway is the reason it didn't work. You have to use a dedicated one. Here it is live on IPFS (index.html) https://discordpinnie.mypinata.cloud/ipfs/QmPqoPXERN5qfz6RM34dhdKMnHZPNPFZN6yvxKnkupWFgR/ - the link is temporary and I didn't have to pay $20/m thanks to Piñata
 
 This still wasn't the ENTIRE point of this Repository, but I'm glad what I was trying to do isn't impossible. The word itself says "I'm possible!".
 
 In my head I already have another solution to another experiment.
+
+# 9/19/22 Update #3 NFT.STORAGE
+I assume I need a "dedicated getaway" for this to work, but my index file does not include my Music NFT. Only the simple HTML. With that said, I'm looking at project longevity relative to market research (if it's based on gas and such, etc etc).
+
+As of now, Piñata costs $20/m for small projects, $1000/m for the real deal, and NFT.STORAGE failed with basic experiment, but with that said I will contact them as well to {get} more information on whether there's a "private getaway" option etc. Like I said before, I'm still awaiting API keys etc so, again this is a basic experiment but I think the knowledge gained is priceless.
